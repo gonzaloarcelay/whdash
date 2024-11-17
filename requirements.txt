@@ -1,0 +1,6 @@
+pandas
+plotly
+investpy
+numpy
+dash
+fredapi
